@@ -2,6 +2,7 @@
 Problem #6: The fscanf function
 Author: Asam Shan
 Date Created: 21/05/2019
+Comments: Source for the solution https://golang.org/pkg/os/
 */
 
 /*
@@ -14,8 +15,26 @@ about the function fclose for a better understanding of it.
 
 package main
 
+import (
+	"fmt"
+	"log"
+	"os" // used for opening a file
+)
+
 func main() {
 
-	// TODO add solution
+	// fnuction to open an file using the os package
+	file, err := os.Open("testdata6") // For read access.
+	if err != nil {
+		log.Fatal(err)
+	}
 
+	//we can now read the data, store the number of bytes as well as the count, which is the number within the testdata file
+
+	data := make([]byte, 100)
+	count, err := file.Read(data)
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Printf("read %d bytes and the number in testdata6 is: %q\n", count, data[:count])
 }

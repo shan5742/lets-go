@@ -15,3 +15,4 @@ I will create a directory for each problem and everything for that problem will 
 **Problem 3:** [The Character P](https://github.com/shan5742/lets-go/tree/master/03_CharacterP)<br/>
 **Problem 4:** [The ScanF function](https://github.com/shan5742/lets-go/tree/master/04_ScanF)<br/>
 **Problem 5:** [The sum of 2 values](https://github.com/shan5742/lets-go/tree/master/05_Sum)<br/>
+**Problem 6:** [FSCANF](https://github.com/shan5742/lets-go/tree/master/06_fscanf)<br/>
