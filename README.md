@@ -16,3 +16,4 @@ I will create a directory for each problem and everything for that problem will 
 **Problem 4:** [The ScanF function](https://github.com/shan5742/lets-go/tree/master/04_ScanF)<br/>
 **Problem 5:** [The sum of 2 values](https://github.com/shan5742/lets-go/tree/master/05_Sum)<br/>
 **Problem 6:** [FSCANF](https://github.com/shan5742/lets-go/tree/master/06_fscanf)<br/>
+**Problem 7:** [Bigger than 100](https://github.com/shan5742/lets-go/tree/master/07_bigger-than-100)<br/>
