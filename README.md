@@ -10,4 +10,4 @@ I will create a directory for each problem and everything for that problem will 
 
 ### Problems
 
-**Problem 1** [Hello World](https://github.com/shan5742/lets-go/blob/master/101.pdf)
+**Problem 1** [Hello World](https://github.com/shan5742/lets-go/tree/master/01_HelloWorld)
