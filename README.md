@@ -11,3 +11,4 @@ I will create a directory for each problem and everything for that problem will 
 ### Problems
 
 **Problem 1** [Hello World](https://github.com/shan5742/lets-go/tree/master/01_HelloWorld)
+**Problem 2** [The Value 6](https://github.com/shan5742/lets-go/tree/master/02_Value6)

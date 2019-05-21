@@ -4,6 +4,11 @@ Author: Asam Shan
 Date Created: 21/05/2019
 */
 
+/*
+***************** HELLO WORLD *****************
+Write a program that prints out the message "Hello World"
+*/
+
 /* Every Go program must inclucde a package and a function named main. */
 
 package main
