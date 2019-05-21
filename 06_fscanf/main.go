@@ -37,4 +37,6 @@ func main() {
 		log.Fatal(err)
 	}
 	fmt.Printf("read %d bytes and the number in testdata6 is: %q\n", count, data[:count])
+
+	file.Close()
 }
